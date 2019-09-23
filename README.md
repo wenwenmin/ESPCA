@@ -1,7 +1,5 @@
 # ESPCA 
 
-* Edge-group sparse PCA for network-guided high dimensional data analysis https://academic.oup.com/bioinformatics/article/34/20/3479/4992141
-
 ### Introduction
 This package is used to solve multiole edge sparse PCA model in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
 
@@ -37,7 +35,10 @@ Please run the following R command in the Console.
 <table class="docutils footnote" frame="void" id="id2" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
-<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> Wenwen Min, Juan Liu, Shihua Zhang. Edge-group sparse PCA for network-guided high dimensional data analysis. [J]. Bioinformatics, 2018, 34(20): 3479-3487. </td></tr>
+<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> 
+Wenwen Min, Juan Liu, Shihua Zhang. Edge-group sparse PCA for network-guided high dimensional data analysis. [J]. Bioinformatics, 2018, 34(20): 3479-3487. 
+https://academic.oup.com/bioinformatics/article/34/20/3479/4992141  
+</td></tr>
 </tbody>
 </table>
 
