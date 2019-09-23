@@ -6,7 +6,7 @@ This package is used to solve multiole edge sparse PCA model in our paper <a cla
 More descriptions about these functions can be found in their annotation part.
 
 <p align="center"> 
-<img src="https://github.com/wenwenmin/GSVD/blob/master/Readme_fig2.png">
+<img src="https://github.com/wenwenmin/ESPCA/blob/master/ESPCA.png">
 </p>
 
 ### R code
