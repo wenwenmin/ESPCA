@@ -1,5 +1,7 @@
 # ESPCA 
 
+* Edge-group sparse PCA for network-guided high dimensional data analysis https://academic.oup.com/bioinformatics/article/34/20/3479/4992141
+
 ### Introduction
 This package is used to solve multiole edge sparse PCA model in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
 
