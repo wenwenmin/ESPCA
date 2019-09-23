@@ -13,7 +13,9 @@ More descriptions about these functions can be found in their annotation part.
 Note that before running the codes, please first set the path for "Example.R".
 Please run the following R command in the Console. 
 
+``` r
 > source('Example.R') 
+```
 
 ### Citing
 <p>The corresponding BiBTeX citation are given below:</p>
