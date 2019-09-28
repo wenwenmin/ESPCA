@@ -1,0 +1,27 @@
+library(igraph)
+library(RLowPC)
+library(mRMRe)
+
+
+#PPI network analysis
+g <- graph.adjacency(m,mode = "undirected", weighted = NULL)
+deg <- degree(g)
+mean(deg)
+max(deg)
+edge_density(g,loops = FALSE)
+hist(deg, breaks = 1:max(deg) , main = "Histogram of node degree")
+
+# yourdata<-gse
+# #Randomly shuffle the data
+# yourdata<-yourdata[sample(nrow(yourdata)),]
+# #Create 10 equally size folds
+# folds <- cut(seq(1,nrow(yourdata)),breaks=10,labels=FALSE)
+# #Perform 10 fold cross validation
+# for(i in 1:10){
+#   #Segement your data by fold using the which() function 
+#   testIndexes <- which(folds==i,arr.ind=TRUE)
+#   testData <- yourdata[testIndexes, ]
+#   trainData <- yourdata[-testIndexes, ]
+#   #Use the test and train data partitions however you desire...
+# 
+# }
