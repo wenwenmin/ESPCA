@@ -1,7 +1,7 @@
 # ESPCA 
 
 ### Introduction
-This package is used to solve multiole edge sparse PCA model in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
+This package is used to solve edge-sparse PCA model in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
 
 More descriptions about these functions can be found in their annotation part.
 
